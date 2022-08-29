@@ -1,0 +1,17 @@
+.footer{
+
+background-color: darkolivegreen;
+
+    border-top: 5px solid #FFDCAE;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+    
+}
+

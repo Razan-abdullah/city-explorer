@@ -1,0 +1,43 @@
+.app{
+
+background-image: url('./earth-world-map-digital-art-wallpaper-preview.jpg');
+background-size: cover;
+height: 1100px;
+
+}
+.app h5{
+
+margin-left: 30px;
+
+
+}
+
+button{
+
+
+border-radius: 10px;
+width: 90px;
+margin-left: 40px;
+height: 30px;
+}
+
+.box{
+
+margin-left: 470px;
+}
+
+.d{
+
+margin-left: 470px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+}
+img{
+    margin-left: 470px;
+    width: 500px;
+    height: 500px;
+
+
+
+}   
+
