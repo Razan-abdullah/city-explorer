@@ -28,11 +28,12 @@ this website was made using React ,Bootstarp ,Axios and LocationIQ.
 
 ## Methodology and Working Flow
 
-![Methodology and Work Flow](./src/style/LAB6.jpg)
+![Methodology and Work Flow](./LAB6%20(1).jpg)
 
 ## Credit and Collaborations
 
 [Noor Al-khateeb ](https://github.com/noor-alkhateeb) 
+
 
 ## Time Estimates
 
